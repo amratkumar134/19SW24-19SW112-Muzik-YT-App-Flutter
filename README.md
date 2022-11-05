@@ -14,13 +14,13 @@ A simplistic music player app which allows you to play songs or audio of any vid
 
 
 ## Screenshots
-
+**Home**
 ![home](https://user-images.githubusercontent.com/83054299/200131729-4330d75f-8766-49cb-b0ed-4993645e9294.png)
-
-<img src="./Muzik-YT App\muzik/screenshots/library.png" width="200" height="400" />
-<img src="./Muzik-YT App\muzik/screenshots/player.png" width="200" height="400" />
-<img src="./Muzik-YT App\muzik/screenshots/search.png" width="200" height="400" />
-<img src="./Muzik-YT App\muzik/screenshots/download.png" width="200" height="400" />
+**library**
+![library](https://user-images.githubusercontent.com/83054299/200131833-b5a092f8-d56a-4565-a96a-75149140b447.png)
+![player](https://user-images.githubusercontent.com/83054299/200131837-1aaacb9c-7549-4462-9d24-ec997e32e237.png)
+![search](https://user-images.githubusercontent.com/83054299/200131845-c3ed93c5-f90c-47bc-812b-ec51a59f9e65.png)
+![download](https://user-images.githubusercontent.com/83054299/200131851-101eee8f-ced1-4939-bba2-43ccb7a30d52.png)
 
 
 ## Roadmap
