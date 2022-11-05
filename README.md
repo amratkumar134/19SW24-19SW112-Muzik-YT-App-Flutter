@@ -16,6 +16,12 @@ A simplistic music player app which allows you to play songs or audio of any vid
 ## Screenshots
 
 
+<img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/home.png" width="200" height="400" />
+<img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/library.png" width="200" height="400" />
+<img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/player.png" width="200" height="400" />
+<img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/search.png" width="200" height="400" />
+<img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/download.png" width="200" height="400" />
+
 ## Roadmap
 
 - Playlist customization
