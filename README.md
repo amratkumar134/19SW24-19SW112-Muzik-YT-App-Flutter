@@ -20,12 +20,17 @@ A simplistic music player app which allows you to play songs or audio of any vid
 
                 library
 <img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/library.png" width="200" height="400" />
+
                  player
                  
 <img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/player.png" width="200" height="400" />
+
                  search
+                 
 <img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/search.png" width="200" height="400" />
+
                  download    
+                 
 <img src="https://github.com/amratkumar134/19SW24-19SW112-Muzik-YT-App-Flutter/blob/main/screenshots/download.png" width="200" height="400" />
 
 ## Roadmap
